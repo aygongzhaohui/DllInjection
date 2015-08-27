@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllInject", "LibDllInject\LibDllInject.vcxproj", "{947B4796-157B-40F7-B964-BDD27F0367DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllInjectTest", "DllInjectTest\DllInjectTest.vcxproj", "{F76E136D-C6AF-4F05-BD2C-3B6AC81A157D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{947B4796-157B-40F7-B964-BDD27F0367DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{947B4796-157B-40F7-B964-BDD27F0367DE}.Debug|Win32.Build.0 = Debug|Win32
+		{947B4796-157B-40F7-B964-BDD27F0367DE}.Release|Win32.ActiveCfg = Release|Win32
+		{947B4796-157B-40F7-B964-BDD27F0367DE}.Release|Win32.Build.0 = Release|Win32
+		{F76E136D-C6AF-4F05-BD2C-3B6AC81A157D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F76E136D-C6AF-4F05-BD2C-3B6AC81A157D}.Debug|Win32.Build.0 = Debug|Win32
+		{F76E136D-C6AF-4F05-BD2C-3B6AC81A157D}.Release|Win32.ActiveCfg = Release|Win32
+		{F76E136D-C6AF-4F05-BD2C-3B6AC81A157D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
